@@ -1,0 +1,48 @@
+C:\Users\Kiko\Documents\Visual Studio 2015\Projects\PLN\PLN\bin\Debug\PLN.exe.config
+C:\Users\Kiko\Documents\Visual Studio 2015\Projects\PLN\PLN\obj\Debug\PLN.vbprojResolveAssemblyReference.cache
+C:\Users\Kiko\Documents\Visual Studio 2015\Projects\PLN\PLN\obj\Debug\PLN.CariPakai.resources
+C:\Users\Kiko\Documents\Visual Studio 2015\Projects\PLN\PLN\obj\Debug\PLN.CariPelanggan.resources
+C:\Users\Kiko\Documents\Visual Studio 2015\Projects\PLN\PLN\obj\Debug\PLN.CariTagihan.resources
+C:\Users\Kiko\Documents\Visual Studio 2015\Projects\PLN\PLN\obj\Debug\PLN.CariTarif.resources
+C:\Users\Kiko\Documents\Visual Studio 2015\Projects\PLN\PLN\obj\Debug\PLN.Form1.resources
+C:\Users\Kiko\Documents\Visual Studio 2015\Projects\PLN\PLN\obj\Debug\PLN.Login.resources
+C:\Users\Kiko\Documents\Visual Studio 2015\Projects\PLN\PLN\obj\Debug\PLN.Resources.resources
+C:\Users\Kiko\Documents\Visual Studio 2015\Projects\PLN\PLN\obj\Debug\PLN.pemakaian.resources
+C:\Users\Kiko\Documents\Visual Studio 2015\Projects\PLN\PLN\obj\Debug\PLN.Pembayaran.resources
+C:\Users\Kiko\Documents\Visual Studio 2015\Projects\PLN\PLN\obj\Debug\PLN.Tagihan.resources
+C:\Users\Kiko\Documents\Visual Studio 2015\Projects\PLN\PLN\obj\Debug\PLN.Tarif.resources
+C:\Users\Kiko\Documents\Visual Studio 2015\Projects\PLN\PLN\obj\Debug\PLN.vbproj.GenerateResource.Cache
+C:\Users\Kiko\Documents\Visual Studio 2015\Projects\PLN\PLN\obj\Debug\PLN.xml
+C:\Users\Kiko\Documents\Visual Studio 2015\Projects\PLN\PLN\bin\Debug\PLN.exe
+C:\Users\Kiko\Documents\Visual Studio 2015\Projects\PLN\PLN\bin\Debug\PLN.pdb
+C:\Users\Kiko\Documents\Visual Studio 2015\Projects\PLN\PLN\bin\Debug\PLN.xml
+C:\Users\Kiko\Documents\Visual Studio 2015\Projects\PLN\PLN\obj\Debug\PLN.exe
+C:\Users\Kiko\Documents\Visual Studio 2015\Projects\PLN\PLN\obj\Debug\PLN.pdb
+C:\Users\Kiko\Documents\Visual Studio 2015\Projects\PLN\PLN\obj\Debug\PLN.Home.resources
+C:\Users\Kiko\Documents\Visual Studio 2015\Projects\PLN\PLN\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\Kiko\Documents\Visual Studio 2015\Projects\PLN\PLN\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\Kiko\Documents\Visual Studio 2015\Projects\PLN\PLN\obj\Debug\PLN.DataUser.resources
+C:\Users\Kiko\Desktop\First Half of 2019\Berkas UKK Muhamad Bilaal\PLN\PLN\bin\Debug\PLN.exe.config
+C:\Users\Kiko\Desktop\First Half of 2019\Berkas UKK Muhamad Bilaal\PLN\PLN\obj\Debug\PLN.exe
+C:\Users\Kiko\Desktop\First Half of 2019\Berkas UKK Muhamad Bilaal\PLN\PLN\obj\Debug\PLN.xml
+C:\Users\Kiko\Desktop\First Half of 2019\Berkas UKK Muhamad Bilaal\PLN\PLN\obj\Debug\PLN.pdb
+C:\Users\Kiko\Desktop\First Half of 2019\Berkas UKK Muhamad Bilaal\PLN\PLN\bin\Debug\PLN.exe
+C:\Users\Kiko\Desktop\First Half of 2019\Berkas UKK Muhamad Bilaal\PLN\PLN\bin\Debug\PLN.pdb
+C:\Users\Kiko\Desktop\First Half of 2019\Berkas UKK Muhamad Bilaal\PLN\PLN\bin\Debug\PLN.xml
+C:\Users\Kiko\Desktop\First Half of 2019\Berkas UKK Muhamad Bilaal\PLN\PLN\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\Kiko\Desktop\First Half of 2019\Berkas UKK Muhamad Bilaal\PLN\PLN\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\Kiko\Desktop\First Half of 2019\Berkas UKK Muhamad Bilaal\PLN\PLN\obj\Debug\PLN.vbprojResolveAssemblyReference.cache
+C:\Users\Kiko\Desktop\First Half of 2019\Berkas UKK Muhamad Bilaal\PLN\PLN\obj\Debug\PLN.CariPakai.resources
+C:\Users\Kiko\Desktop\First Half of 2019\Berkas UKK Muhamad Bilaal\PLN\PLN\obj\Debug\PLN.CariPelanggan.resources
+C:\Users\Kiko\Desktop\First Half of 2019\Berkas UKK Muhamad Bilaal\PLN\PLN\obj\Debug\PLN.CariTagihan.resources
+C:\Users\Kiko\Desktop\First Half of 2019\Berkas UKK Muhamad Bilaal\PLN\PLN\obj\Debug\PLN.CariTarif.resources
+C:\Users\Kiko\Desktop\First Half of 2019\Berkas UKK Muhamad Bilaal\PLN\PLN\obj\Debug\PLN.DataUser.resources
+C:\Users\Kiko\Desktop\First Half of 2019\Berkas UKK Muhamad Bilaal\PLN\PLN\obj\Debug\PLN.Form1.resources
+C:\Users\Kiko\Desktop\First Half of 2019\Berkas UKK Muhamad Bilaal\PLN\PLN\obj\Debug\PLN.Home.resources
+C:\Users\Kiko\Desktop\First Half of 2019\Berkas UKK Muhamad Bilaal\PLN\PLN\obj\Debug\PLN.Login.resources
+C:\Users\Kiko\Desktop\First Half of 2019\Berkas UKK Muhamad Bilaal\PLN\PLN\obj\Debug\PLN.Resources.resources
+C:\Users\Kiko\Desktop\First Half of 2019\Berkas UKK Muhamad Bilaal\PLN\PLN\obj\Debug\PLN.pemakaian.resources
+C:\Users\Kiko\Desktop\First Half of 2019\Berkas UKK Muhamad Bilaal\PLN\PLN\obj\Debug\PLN.Pembayaran.resources
+C:\Users\Kiko\Desktop\First Half of 2019\Berkas UKK Muhamad Bilaal\PLN\PLN\obj\Debug\PLN.Tagihan.resources
+C:\Users\Kiko\Desktop\First Half of 2019\Berkas UKK Muhamad Bilaal\PLN\PLN\obj\Debug\PLN.Tarif.resources
+C:\Users\Kiko\Desktop\First Half of 2019\Berkas UKK Muhamad Bilaal\PLN\PLN\obj\Debug\PLN.vbproj.GenerateResource.Cache
